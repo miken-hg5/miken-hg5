@@ -8,7 +8,7 @@ $url2 = "http://www.worldagweather.com/nogger/pastpcp_anom_eu_30day.png"
 $url3 = "http://www.worldagweather.com/fcstwx/fcstpcp_anom_gfs_eu.png"
 
 $location = Get-Location 
-write-host "Current locations is" $location
+write-host "Current location is" $location
 try
 {
     $fileLocation1 = $location.Path + "\past_30_days.png"
