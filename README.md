@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miken-hg5
 - 👀 I’m interested in ... Performance Testing, Automation Testing, WordPress, PowerShell
-- 🌱 I’m currently learning ... Cypress automation
+- 🌱 I’m currently learning ... playwright automation, Wix HTML/CSS, mobile development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
